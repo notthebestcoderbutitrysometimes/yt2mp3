@@ -53,4 +53,4 @@ Oh ya btw it doesnt download anything by itself so if it doesnt run you probably
 
 License
 
-Heres the License. Do whatever you want as long as its not bad or whatever.
+Can be found in license file
