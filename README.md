@@ -28,8 +28,10 @@ Installation
 
 Install yt-dlp:
 pip install yt-dlp
+
 If that fails:
 python -m pip install yt-dlp
+
 Install FFmpeg
 Go to ffmpeg.org, download the latest build, and add it to your system PATH.
 (If you're not sure which version to get, ask ChatGPT - there are a bunch.)
@@ -38,6 +40,7 @@ Usage
 
 In Command Prompt:
 python yt2mp3.py
+
 Or just double-click the yt2mp3.py file if Python is associated properly. Once running, paste a YouTube URL when prompted. The .mp3 will be saved in the current folder.
 
 Output
