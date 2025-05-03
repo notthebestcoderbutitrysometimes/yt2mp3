@@ -1,56 +1,63 @@
-I made this on windows BTW
-
 YouTube to MP3 Converter
+A lightweight, terminal-based Python tool for downloading and converting YouTube videos to MP3 audio using yt-dlp and ffmpeg.
 
-A simple terminal based Python tool for downloading and converting YouTube videos to MP3 audio using yt-dlp and ffmpeg. I run it in windows command prompt, thats right, I run this in cmd, thats how simple it is.
+I run this right in Windows Command Prompt. Yep — just open CMD, run the script, and you're off. That’s how simple it is.
 
-Features
+✅ Features
+Paste any YouTube URL and get the best available audio.
 
-Paste any YouTube URL and get the best available audio downloaded.
+Automatically extracts and saves the audio as an .mp3.
 
-Audio is automatically extracted and saved as an MP3 file.
+Filenames are cleaned and match the original YouTube title.
 
-Filenames are sanitized and match the original YouTube title.
+Runs in a loop so you can download multiple videos in a row.
 
-Continues running in a loop for multiple downloads.
-
-Requirements
-
-Windows idk at least 10+ probably might run on lower ones havent tested that, for sure wont work on anything but windows tho
+🧰 Requirements
+Windows (tested on Windows 10+, may work on earlier versions)
 
 Python 3.6+
 
 yt-dlp
 
-ffmpeg (must be installed and accessible in system PATH)
+ffmpeg (must be installed and added to your system PATH)
 
-Installation
+📦 Installation
+Install yt-dlp:
 
-pip install yt-dlp (you might have to do python -m then pip)
+bash
+Copy
+Edit
+pip install yt-dlp
+If that fails:
 
-Install FFmpeg:
-Windows: https://ffmpeg.org (and find the good download, you might have to ask chat gpt which one to get if you dont have it there are a lot of versions)
+bash
+Copy
+Edit
+python -m pip install yt-dlp
+Install FFmpeg
+Go to ffmpeg.org, download the latest build, and add it to your system PATH.
+(If you're not sure which version to get, ask ChatGPT — there are a bunch.)
 
-Usage
+🚀 Usage
+In Command Prompt:
 
-python yt2mp3.py in cmd or double click the python file, if I coded it good enough it should launch without error
+bash
+Copy
+Edit
+python yt2mp3.py
+Or just double-click the yt2mp3.py file if Python is associated properly. Once running, paste a YouTube URL when prompted. The .mp3 will be saved in the current folder.
 
-Then paste a YouTube link when prompted. The MP3 will be downloaded and saved to the current working directory.
+📁 Output
+The audio file will be named after the original video title.
 
-Output
+Invalid characters are removed automatically to make sure filenames are safe.
 
-Output file will be saved in the format: VideoTitle.mp3 
+⚠️ Notes
+FFmpeg must be installed or the conversion will fail.
 
-It *should* automatically remove invalid filename characters from the title.
+If a download fails, the script shows an error and lets you try again.
 
-Notes
+It doesn’t install anything for you — so if it crashes on startup, you're probably missing a required import or didn’t install FFmpeg correctly.
 
-Ensure ffmpeg is installed or the conversion will fail.
-
-If a download or conversion fails, an error message will be shown and the script will ask for another URL.
-
-Oh ya btw it doesnt download anything by itself so if it doesnt run you probably dont have one of those imports installed lol or ffmpeg isnt installed right
-
-License
-
-Can be found in license file
+📄 License
+See the LICENSE file for details.
