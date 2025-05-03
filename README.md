@@ -40,7 +40,6 @@ Then paste a YouTube link when prompted. The MP3 will be downloaded and saved to
 Output
 
 Output file will be saved in the format: VideoTitle.mp3 
-Saved in whatever location you have the script, i have mine in a folder so all the songs go there once downloaded
 
 It *should* utomatically remove invalid filename characters from the title.
 
