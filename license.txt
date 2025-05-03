@@ -1,12 +1,10 @@
-Creative Commons Attribution-NonCommercial 4.0 International License
-(CC BY-NC 4.0)
-
+Creative Commons NonCommercial 4.0 International License
 Copyright © 2025 notthebestcoderbutitrysometimes @github
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to use, copy, modify, merge, publish, and distribute the Software, subject to the following conditions:
 
 Attribution
-Appropriate credit must be given, a link to the license must be included, and any changes made must be clearly indicated. Attribution must not suggest endorsement by the original author.
+Appropriate credit doesn't need be given, but a link to the license must be included.
 
 NonCommercial Use Only
 This license strictly prohibits the use of the Software or any derivative works for commercial purposes. Commercial use includes but is not limited to: selling the Software, integrating it into proprietary systems or platforms for profit, or using it in services or applications for which users are charged.
