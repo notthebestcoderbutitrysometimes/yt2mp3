@@ -13,7 +13,7 @@ Filenames are cleaned and match the original YouTube title.
 Runs in a loop so you can download multiple videos in a row.
 
 🧰 Requirements
-Windows (tested on Windows 10+, may work on earlier versions)
+Windows (tested on Windows 11, may work on earlier versions)
 
 Python 3.6+
 
