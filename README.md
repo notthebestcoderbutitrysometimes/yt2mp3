@@ -1,7 +1,7 @@
 YouTube to MP3 Converter
 A lightweight, terminal-based Python tool for downloading and converting YouTube videos to MP3 audio using yt-dlp and ffmpeg.
 
-I run this right in Windows Command Prompt. Yep — just open CMD, run the script, and you're off. That’s how simple it is.
+I run this right in Windows Command Prompt. Yep - just open CMD, run the script, and you're off. That’s how simple it is.
 
 ✅ Features
 Paste any YouTube URL and get the best available audio.
