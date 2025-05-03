@@ -41,7 +41,7 @@ Output
 
 Output file will be saved in the format: VideoTitle.mp3 
 
-It *should* utomatically remove invalid filename characters from the title.
+It *should* automatically remove invalid filename characters from the title.
 
 Notes
 
