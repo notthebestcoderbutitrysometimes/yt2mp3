@@ -15,7 +15,7 @@ Charging users for access to or use of the Software;
 Including the Software in monetized applications or offerings.
 
 Attribution Not Required
-Credit to the original author is appreciated but not required. Redistribution must include this license text.
+Credit to the original author is appreciated but not required. Redistribution must include this license text as is.
 
 No Additional Restrictions
 You may not impose any further restrictions on the use of the Software beyond those described in this license. This includes legal or technological restrictions.
