@@ -52,7 +52,8 @@ FFmpeg must be installed or the conversion will fail.
 
 If a download fails, the script shows an error and lets you try again.
 
-It doesn’t install anything for you — so if it crashes on startup, you're probably missing a required import or didn’t install FFmpeg correctly.
+It doesn’t install anything for you - so if it crashes on startup, you're probably missing a required import or didn’t install FFmpeg correctly.
 
-📄 License
+License
+
 See the LICENSE file for details.
